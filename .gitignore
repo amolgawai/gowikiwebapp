@@ -1,2 +1,3 @@
 # ignore executables on windows
 *.exe
+*.txt
